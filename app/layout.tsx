@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Kushagra Jadiya — Software Development Engineer",
+  title: "Kushagra Jadiya | Software Development Engineer",
   description:
     "Portfolio of Kushagra Jadiya, focused on backend and AI-integrated systems.",
   openGraph: {
