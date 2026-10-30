@@ -68,7 +68,7 @@ export function Projects() {
                   </h3>
                 </div>
                 <span className="font-mono text-[9px] text-[var(--faint)]">
-                  {project.index} / 07
+                  {project.index} / {String(projects.length).padStart(2, "0")}
                 </span>
               </div>
               <p className="mt-6 max-w-xl text-sm leading-7 text-[var(--muted)]">
